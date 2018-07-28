@@ -10,6 +10,7 @@ namespace _03_VarDinamic
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("OI");
         }
     }
 }
